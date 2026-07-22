@@ -1,0 +1,2 @@
+# recoverytech-git-dtnetwork-zaap-bridge
+REPOSITORIO PARA ENVIOS DE MSG VIA ZAAP INTEGRANDO COM DT NETWORK
